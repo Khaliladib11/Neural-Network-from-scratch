@@ -25,4 +25,6 @@ Note that you can try the network with different number of hidden layers, nodes 
 I implemented SGD optimizer as well and you can change the batch size each time.
 
 Some results:
+
+
 ![image](https://user-images.githubusercontent.com/73353537/153706904-f1a1c311-5c29-44b1-926c-a1188ecb7ca0.png)
