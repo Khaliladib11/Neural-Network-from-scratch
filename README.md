@@ -19,7 +19,7 @@ The data can be downloaded from [Kaggle](https://www.kaggle.com/zalando-research
 In this notebook I've implemented forward and backpropagation algorithms using the partial derivatives. For updating weight i've used gradient descent algortihms.
 
 ![image](https://user-images.githubusercontent.com/73353537/153706897-d920b25d-9417-4f76-8bca-7504f75a1999.png)
-Image from: [](https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7)
+Image [![image](https://user-images.githubusercontent.com/73353537/153706940-f7717055-7a31-4d4c-a6d7-69f6b8627896.png)](https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7)
 
 Note that you can try the network with different number of hidden layers, nodes and activation function. However the last layer will always be softamx because I was trying to solve a classification problem and I've used softmax with cross-entropy loss.
 
